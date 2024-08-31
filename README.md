@@ -26,7 +26,7 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 1. Clone repositori ini:
    ```
    git clone https://github.com/FakriSouyo/pastry-shop.git
-   cd delicious-cakes
+   cd pastry-shop
    ```
 
 2. Instal dependensi:
